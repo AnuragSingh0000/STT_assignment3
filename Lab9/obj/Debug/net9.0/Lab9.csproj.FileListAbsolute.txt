@@ -1,0 +1,14 @@
+C:\Users\RAM CHANDAN SINGH\OneDrive - iitgn.ac.in\Desktop\Semester 5\STT\Assign\Lab9\bin\Debug\net9.0\Lab9.exe
+C:\Users\RAM CHANDAN SINGH\OneDrive - iitgn.ac.in\Desktop\Semester 5\STT\Assign\Lab9\bin\Debug\net9.0\Lab9.deps.json
+C:\Users\RAM CHANDAN SINGH\OneDrive - iitgn.ac.in\Desktop\Semester 5\STT\Assign\Lab9\bin\Debug\net9.0\Lab9.runtimeconfig.json
+C:\Users\RAM CHANDAN SINGH\OneDrive - iitgn.ac.in\Desktop\Semester 5\STT\Assign\Lab9\bin\Debug\net9.0\Lab9.dll
+C:\Users\RAM CHANDAN SINGH\OneDrive - iitgn.ac.in\Desktop\Semester 5\STT\Assign\Lab9\bin\Debug\net9.0\Lab9.pdb
+C:\Users\RAM CHANDAN SINGH\OneDrive - iitgn.ac.in\Desktop\Semester 5\STT\Assign\Lab9\obj\Debug\net9.0\Lab9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RAM CHANDAN SINGH\OneDrive - iitgn.ac.in\Desktop\Semester 5\STT\Assign\Lab9\obj\Debug\net9.0\Lab9.AssemblyInfoInputs.cache
+C:\Users\RAM CHANDAN SINGH\OneDrive - iitgn.ac.in\Desktop\Semester 5\STT\Assign\Lab9\obj\Debug\net9.0\Lab9.AssemblyInfo.cs
+C:\Users\RAM CHANDAN SINGH\OneDrive - iitgn.ac.in\Desktop\Semester 5\STT\Assign\Lab9\obj\Debug\net9.0\Lab9.csproj.CoreCompileInputs.cache
+C:\Users\RAM CHANDAN SINGH\OneDrive - iitgn.ac.in\Desktop\Semester 5\STT\Assign\Lab9\obj\Debug\net9.0\Lab9.dll
+C:\Users\RAM CHANDAN SINGH\OneDrive - iitgn.ac.in\Desktop\Semester 5\STT\Assign\Lab9\obj\Debug\net9.0\refint\Lab9.dll
+C:\Users\RAM CHANDAN SINGH\OneDrive - iitgn.ac.in\Desktop\Semester 5\STT\Assign\Lab9\obj\Debug\net9.0\Lab9.pdb
+C:\Users\RAM CHANDAN SINGH\OneDrive - iitgn.ac.in\Desktop\Semester 5\STT\Assign\Lab9\obj\Debug\net9.0\Lab9.genruntimeconfig.cache
+C:\Users\RAM CHANDAN SINGH\OneDrive - iitgn.ac.in\Desktop\Semester 5\STT\Assign\Lab9\obj\Debug\net9.0\ref\Lab9.dll
