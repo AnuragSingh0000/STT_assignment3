@@ -1,0 +1,15 @@
+C:\MYSTUFF\Academics\STT\Lab10\lab10\ConstructorDataControl\bin\Debug\net9.0\ConstructorDataControl.exe
+C:\MYSTUFF\Academics\STT\Lab10\lab10\ConstructorDataControl\bin\Debug\net9.0\ConstructorDataControl.deps.json
+C:\MYSTUFF\Academics\STT\Lab10\lab10\ConstructorDataControl\bin\Debug\net9.0\ConstructorDataControl.runtimeconfig.json
+C:\MYSTUFF\Academics\STT\Lab10\lab10\ConstructorDataControl\bin\Debug\net9.0\ConstructorDataControl.dll
+C:\MYSTUFF\Academics\STT\Lab10\lab10\ConstructorDataControl\bin\Debug\net9.0\ConstructorDataControl.pdb
+C:\MYSTUFF\Academics\STT\Lab10\lab10\ConstructorDataControl\obj\Debug\net9.0\ConstructorDataControl.GeneratedMSBuildEditorConfig.editorconfig
+C:\MYSTUFF\Academics\STT\Lab10\lab10\ConstructorDataControl\obj\Debug\net9.0\ConstructorDataControl.AssemblyInfoInputs.cache
+C:\MYSTUFF\Academics\STT\Lab10\lab10\ConstructorDataControl\obj\Debug\net9.0\ConstructorDataControl.AssemblyInfo.cs
+C:\MYSTUFF\Academics\STT\Lab10\lab10\ConstructorDataControl\obj\Debug\net9.0\ConstructorDataControl.csproj.CoreCompileInputs.cache
+C:\MYSTUFF\Academics\STT\Lab10\lab10\ConstructorDataControl\obj\Debug\net9.0\ConstructorDataControl.sourcelink.json
+C:\MYSTUFF\Academics\STT\Lab10\lab10\ConstructorDataControl\obj\Debug\net9.0\ConstructorDataControl.dll
+C:\MYSTUFF\Academics\STT\Lab10\lab10\ConstructorDataControl\obj\Debug\net9.0\refint\ConstructorDataControl.dll
+C:\MYSTUFF\Academics\STT\Lab10\lab10\ConstructorDataControl\obj\Debug\net9.0\ConstructorDataControl.pdb
+C:\MYSTUFF\Academics\STT\Lab10\lab10\ConstructorDataControl\obj\Debug\net9.0\ConstructorDataControl.genruntimeconfig.cache
+C:\MYSTUFF\Academics\STT\Lab10\lab10\ConstructorDataControl\obj\Debug\net9.0\ref\ConstructorDataControl.dll

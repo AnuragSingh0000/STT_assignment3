@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="ConstructorDataControl/ConstructorDataControl.csproj" />
+  <Project Path="Experiements/Experiements.csproj" />
+  <Project Path="Inheritence/Inheritence.csproj" />
+</Solution>

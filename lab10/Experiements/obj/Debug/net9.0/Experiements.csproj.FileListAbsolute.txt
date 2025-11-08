@@ -1,0 +1,15 @@
+C:\MYSTUFF\Academics\STT\Lab10\lab10\Experiements\bin\Debug\net9.0\Experiements.exe
+C:\MYSTUFF\Academics\STT\Lab10\lab10\Experiements\bin\Debug\net9.0\Experiements.deps.json
+C:\MYSTUFF\Academics\STT\Lab10\lab10\Experiements\bin\Debug\net9.0\Experiements.runtimeconfig.json
+C:\MYSTUFF\Academics\STT\Lab10\lab10\Experiements\bin\Debug\net9.0\Experiements.dll
+C:\MYSTUFF\Academics\STT\Lab10\lab10\Experiements\bin\Debug\net9.0\Experiements.pdb
+C:\MYSTUFF\Academics\STT\Lab10\lab10\Experiements\obj\Debug\net9.0\Experiements.GeneratedMSBuildEditorConfig.editorconfig
+C:\MYSTUFF\Academics\STT\Lab10\lab10\Experiements\obj\Debug\net9.0\Experiements.AssemblyInfoInputs.cache
+C:\MYSTUFF\Academics\STT\Lab10\lab10\Experiements\obj\Debug\net9.0\Experiements.AssemblyInfo.cs
+C:\MYSTUFF\Academics\STT\Lab10\lab10\Experiements\obj\Debug\net9.0\Experiements.csproj.CoreCompileInputs.cache
+C:\MYSTUFF\Academics\STT\Lab10\lab10\Experiements\obj\Debug\net9.0\Experiements.sourcelink.json
+C:\MYSTUFF\Academics\STT\Lab10\lab10\Experiements\obj\Debug\net9.0\Experiements.dll
+C:\MYSTUFF\Academics\STT\Lab10\lab10\Experiements\obj\Debug\net9.0\refint\Experiements.dll
+C:\MYSTUFF\Academics\STT\Lab10\lab10\Experiements\obj\Debug\net9.0\Experiements.pdb
+C:\MYSTUFF\Academics\STT\Lab10\lab10\Experiements\obj\Debug\net9.0\Experiements.genruntimeconfig.cache
+C:\MYSTUFF\Academics\STT\Lab10\lab10\Experiements\obj\Debug\net9.0\ref\Experiements.dll

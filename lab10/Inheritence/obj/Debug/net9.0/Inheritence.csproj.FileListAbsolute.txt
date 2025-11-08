@@ -1,0 +1,15 @@
+C:\MYSTUFF\Academics\STT\Lab10\lab10\Inheritence\bin\Debug\net9.0\Inheritence.exe
+C:\MYSTUFF\Academics\STT\Lab10\lab10\Inheritence\bin\Debug\net9.0\Inheritence.deps.json
+C:\MYSTUFF\Academics\STT\Lab10\lab10\Inheritence\bin\Debug\net9.0\Inheritence.runtimeconfig.json
+C:\MYSTUFF\Academics\STT\Lab10\lab10\Inheritence\bin\Debug\net9.0\Inheritence.dll
+C:\MYSTUFF\Academics\STT\Lab10\lab10\Inheritence\bin\Debug\net9.0\Inheritence.pdb
+C:\MYSTUFF\Academics\STT\Lab10\lab10\Inheritence\obj\Debug\net9.0\Inheritence.GeneratedMSBuildEditorConfig.editorconfig
+C:\MYSTUFF\Academics\STT\Lab10\lab10\Inheritence\obj\Debug\net9.0\Inheritence.AssemblyInfoInputs.cache
+C:\MYSTUFF\Academics\STT\Lab10\lab10\Inheritence\obj\Debug\net9.0\Inheritence.AssemblyInfo.cs
+C:\MYSTUFF\Academics\STT\Lab10\lab10\Inheritence\obj\Debug\net9.0\Inheritence.csproj.CoreCompileInputs.cache
+C:\MYSTUFF\Academics\STT\Lab10\lab10\Inheritence\obj\Debug\net9.0\Inheritence.sourcelink.json
+C:\MYSTUFF\Academics\STT\Lab10\lab10\Inheritence\obj\Debug\net9.0\Inheritence.dll
+C:\MYSTUFF\Academics\STT\Lab10\lab10\Inheritence\obj\Debug\net9.0\refint\Inheritence.dll
+C:\MYSTUFF\Academics\STT\Lab10\lab10\Inheritence\obj\Debug\net9.0\Inheritence.pdb
+C:\MYSTUFF\Academics\STT\Lab10\lab10\Inheritence\obj\Debug\net9.0\Inheritence.genruntimeconfig.cache
+C:\MYSTUFF\Academics\STT\Lab10\lab10\Inheritence\obj\Debug\net9.0\ref\Inheritence.dll
